@@ -3,8 +3,7 @@ coaltail/coaltail is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 # Hi there, I'm Luka Baksa 👋
-I'm a passionate programmer and problem solver based in Varaždin, Croatia. I love to come up with creative solutions to complex problems and am always looking for new challenges to tackle.
-
+I'm a passionate programmer and problem solver based in Varaždin, Croatia. I love using my programming skills to find creative solutions to complex problems and am always eager to take on new challenges. I devote my time to learning new tech-related things and improving my skills, as well as spending time with loved ones and generally enjoying life. I believe in thinking outside the box and constantly learning and growing as a developer to produce better results and make a positive impact through my work.
 ## 💻 Tech Stack
 Programming languages: Python, JavaScript, C#, C++
 Frameworks and Libraries: .NET, Numpy, Pandas, Scikit-learn, ReactJS, ExpressJS 
