@@ -16,3 +16,6 @@ Here are some of the projects I'm currently working on:
 
 Project "ORKAN": Working as a programmer on the project "ORKAN" of the Faculty of Organisation and Informatics, Varaždin.
 E-Commerce Website "Oasis": A personal project and my idea of the perfect E-Commerce Website.
+
+## 📫 Contact
+You can reach me at baksaluka24@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/luka-baksa-570014218/).
